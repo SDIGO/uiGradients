@@ -8,6 +8,10 @@
         "colors": ["#9400D3", "#4B0082"]
     }, 
     {
+      "name": "lover",
+      "colors": ["#ADDFED", "#D3B3ED", "#FABFE5"]
+    }
+    {
         "name": "Purple",
         "colors": ["#c84e89", "#F15F79"]
     },
